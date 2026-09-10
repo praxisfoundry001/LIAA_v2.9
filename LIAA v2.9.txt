@@ -1,0 +1,1003 @@
+﻿LEGISLATIVE INTEGRITY AND ACCOUNTABILITY ACT
+PART I — PURPOSE, FINDINGS, AND CONSTITUTIONAL CONSTRUCTION
+§ 1. Short Title.
+This Act may be cited as the “Legislative Integrity and Accountability Act” or “LIAA.”
+§ 2. Purpose.
+(a) Purpose.
+The purpose of this Act is to prevent real, apparent, and structurally unavoidable financial conflicts of interest by separating covered federal legislative power and privileged governmental information from privately attributable, materially particularized financial exposure, while preserving ordinary diversified saving, retirement, and broad market participation.
+(b) Prospective Conflict Prevention.
+This Act establishes a prospective financial-conflict rule. Compliance and liability do not depend on proof that a Covered Person traded on material nonpublic information, acted with corrupt motive, caused a market movement, or altered any legislative act because of a financial interest.
+(c) Public Trust.
+Public office is a public trust. Persons entrusted with legislative power, legislative access, legislative oversight, appropriations authority, committee process, nonpublic governmental information, or related institutional authority should not retain private financial exposure that creates a materially particularized conflict with that public relation.
+(d) Nature of the Regulation.
+This Act regulates financial exposure, acquisition, retention, asset management, disclosure, transition, certification, concealment, and evasion incident to a covered public relation. It does not add a qualification for election, service, seating, ballot access, or continued membership in Congress. It does not punish legislative acts or inquire into legislative motive.
+(e) Preserved Financial Participation.
+This Act shall preserve access to Permitted Diversified Investments and shall not be construed as a general prohibition on ordinary saving, retirement investment, broad diversified market participation, or United States Treasury investment.
+§ 3. Congressional Findings.
+Congress finds that:
+(1) Members of Congress and senior congressional staff exercise, share, or sit unusually close to federal legislative power and privileged governmental information.
+(2) Particularized private financial exposure can create a standing conflict with that public relation even when no unlawful insider trading, corrupt motive, or causal connection to a legislative act can be proved.
+(3) Disclosure alone does not prevent such a conflict because disclosure ordinarily occurs after a financial relation exists or a transaction occurs.
+(4) A prospective conflict-prevention rule can separate the conflict without requiring inquiry into votes, speeches, debates, committee deliberations, legislative motives, or other protected legislative acts.
+(5) The financial boundary should follow effective economic exposure rather than product labels, account wrappers, nominal ownership forms, or marketing classifications.
+(6) Broad diversified market participation, broad factor or style investing that is not materially concentrated in a bounded economic referent, United States Treasury securities, diversified retirement saving, and comparable diversified vehicles can remain available without preserving the conflict this Act addresses.
+(7) Spouses and dependent children are included only to the extent necessary to prevent household substitution or evasion and to make attributable financial exposure answerable, while preserving each household person’s independent legal status and avoiding automatic vicarious liability.
+(8) Senior congressional staff are included because certain congressional employees receive compensation, access, responsibility, or privileged information sufficient to create conflict risks comparable in kind to those addressed for Members.
+(9) Trusts, entities, accounts, partnerships, wallets, funds, advisers, nominees, and other arrangements may carry financial exposure but are not human Covered Persons merely because exposure passes through them.
+(10) A lawful transition system is necessary because covered status, inheritance, marriage, involuntary acquisition, legal restrictions, employer compensation, trust administration, and other successor states can create temporary compliance burdens that differ from voluntary prohibited acquisition.
+(11) A lawful transition does not convert a covered exposure into a violation; a violation arises from conduct or retention that breaches an operative statutory duty.
+(12) Independent public administration, protected administrative records, public machine-readable compliance data, and Article III finality for external civil liability can make the Act enforceable without collapsing legislative self-governance into executive administration or executive administration into chamber discipline.
+(13) Civil remedies should be fitted to the breach actually committed, should remove actual unlawful financial upside, should deter knowing or prolonged noncompliance, and should avoid duplicate punishment of the same economic value, gain, or period.
+(14) Public accountability requires a record that distinguishes financial classification from compliance status and that preserves the compliance lineage across transition, extension, tolling, review, cure, and final disposition.
+(15) Financial products, data systems, and implementation practices will change over time; periodic empirical review and bounded technical maintenance can keep the Act answerable to experience without making substantive law expire or change automatically.
+(16) The Act should be reviewed for underbreadth and overbreadth, including whether it continues to preserve ordinary diversified saving, imposes proportionate burdens on household persons and staff, and remains necessary in light of later federal law.
+(17) This Act regulates objective financial conduct and does not regulate, punish, burden, question, or make evidentiary use of protected legislative acts, votes, speeches, debates, committee deliberations, official legislative motives, or the content of legislative judgment.
+(18) This Act is intended to operate consistently with the Qualifications Clauses and related doctrine and shall not be construed to exclude, expel, disqualify, refuse to seat, or impose an additional constitutional qualification on any Member or Member-elect.
+(19) This Act is intended to operate consistently with the Speech or Debate Clause. No liability under this Act may require proof of a Protected Legislative Act or legislative motive.
+§ 4. Constitutional Construction.
+(a) Ethics and Conflict-Prevention Statute.
+This Act shall be construed as an ethics, disclosure, asset-management, and conflict-prevention statute.
+(b) No Added Qualification.
+This Act shall not be construed as an eligibility requirement, ballot-access restriction, seating condition, expulsion mechanism, or additional qualification for congressional office.
+(c) No Legislative-Act Inquiry.
+This Act shall not be construed to authorize inquiry into Protected Legislative Acts, legislative motive, deliberative judgment, committee strategy, legislative purpose, or the content of votes, speeches, debates, reports, hearings, or oversight decisions.
+(d) Objective Financial Conduct.
+Compliance and liability shall be based on objective financial exposure, acquisition, retention, attribution, disclosure, certification, transition, beneficial ownership, timing, notice, concealment, knowing evasion, or other nonprivileged financial facts specified by this Act.
+(e) Diversified Investment Preserved.
+This Act shall not be construed to prohibit a Covered Person from holding Permitted Diversified Investments.
+(f) No Inference From Lawful Transition.
+The existence of a Covered Financial Exposure during a lawful transition, extension, tolling period, or authorized review shall not by itself establish a violation.
+PART II — DEFINITIONS
+§ 5. Definitions.
+As used in this Act:
+(1) “Applicable Congressional Ethics Office” means—
+    (A) the Select Committee on Ethics of the Senate, for a Senator or a Covered Public Person whose congressional employment is administered through the Senate; and
+    (B) the Committee on Ethics of the House of Representatives, for a Representative, Delegate, Resident Commissioner, or a Covered Public Person whose congressional employment is administered through the House.
+(2) “Applicable Administrator” means—
+    (A) the Applicable Congressional Ethics Office for a Covered Public Person; and
+    (B) the Office of Government Ethics for a Covered Household Person.
+(3) “Attributable” or “Attribution” means that a financial exposure is treated as the exposure of a person to the extent that the person—
+    (A) directly owns the financial interest;
+    (B) has a present material beneficial interest in principal, income, appreciation, distribution, or economic payoff from the financial interest;
+    (C) holds an economic interest through a controlled entity or arrangement to the extent the person has a present material economic benefit from that interest;
+    (D) has a joint or shared beneficial interest, to the extent of the person’s beneficial share;
+    (E) has transferred, routed, or nominally placed the interest with a nominee or substitute while retaining a present material economic benefit;
+    (F) has a present material beneficial interest through a trust, estate, partnership, fund, account, or comparable arrangement; or
+    (G) has another present legal or equitable economic interest established by this Act.
+For purposes of this paragraph—
+    (i) control without a present material economic benefit does not by itself create Attribution;
+    (ii) knowledge without a present material economic benefit does not by itself create Attribution;
+    (iii) service solely as a fiduciary, trustee, custodian, adviser, manager, or agent does not by itself attribute the client’s or beneficiary’s exposure to the service provider;
+    (iv) a remote expectancy or contingent future possibility that does not create a present material economic interest is not Attribution;
+    (v) a genuine completed gift to an independent person severs Attribution if the transferor retains no material beneficial interest, control, substitution right, nominee relation, or evasive arrangement; and
+    (vi) marriage, household status, or family relationship alone does not make one person’s financial exposure Attributable to another person. Each Covered Household Person is separately regulated with respect to that person’s own Attributable exposure.
+(4) “Attribution Vehicle or Arrangement” means a trust, account, controlled entity, partnership, private fund, wallet, nominee relationship, adviser-directed arrangement, legal arrangement, or other vehicle through which a financial exposure may be held, transmitted, controlled, or economically enjoyed. An Attribution Vehicle or Arrangement is not a Covered Person solely because it carries such exposure.
+(5) “Compliance Lineage” means the continuous statutory compliance record associated with one unresolved Covered Financial Exposure from the applicable trigger through cure, final disposition, or termination of the covered relation, notwithstanding a change in account, trustee, adviser, wrapper, entity, custodian, or other container.
+(6) “Compliance Transaction” means a sale, disposition, conversion, unwind, trustee disposition, hedge reduction, or other transaction undertaken in good faith to reduce or eliminate a Covered Financial Exposure as required or permitted by this Act. A Compliance Transaction does not include a transaction that materially increases or recreates the Covered Financial Exposure.
+(7) “Covered Financial Exposure” means a direct, indirect, beneficial, synthetic, or economically equivalent financial exposure Attributable to a Covered Person that falls within one or more of the following categories:
+    (A) an equity, debt, credit, ownership, tokenized, or other financial interest in a single issuer or narrow controlled group of issuers;
+    (B) an option, future, forward, swap, contract for difference, short position, structured product, or other derivative whose economic value is materially tied to an exposure described in this paragraph;
+    (C) an investment fund, vehicle, or strategy that is Materially Concentrated in a single industry, single business, objectively bounded economic theme, or single non-United-States country;
+    (D) a Materially Concentrated exposure to a single commodity;
+    (E) a Materially Concentrated exposure to a single digital asset or to a narrow group of digital assets;
+    (F) an obligation or other financial interest of a single State, municipality, public authority, or comparable subnational issuer, or a fund Materially Concentrated in the obligations of a single State or territory;
+    (G) an event contract or comparable financial instrument whose payoff is materially tied to the enactment or nonenactment of Federal legislation, a Federal appropriation, a specified Federal regulatory action, a specified official Federal governmental decision, or another objectively defined Federal governmental event, but not solely an election outcome unless otherwise prohibited by law;
+    (H) a private fund, trust, entity, or other vehicle to the extent that look-through analysis establishes an Effective Economic Exposure described in subparagraphs (A) through (G); or
+    (I) any combination of positions that, when evaluated together, is economically equivalent in material substance to an exposure described in subparagraphs (A) through (H).
+(8) “Covered Household Person” means—
+    (A) a spouse of a Covered Public Person, other than a Separated Spouse; and
+    (B) a Dependent Child of a Covered Public Person.
+(9) “Covered Person” means a Covered Public Person or Covered Household Person.
+(10) “Covered Public Person” means—
+    (A) a Member of Congress; or
+    (B) Senior Congressional Staff.
+(11) “Dependent Child” has the meaning given the term “dependent child” in section 13101(2) of title 5, United States Code, with respect to the applicable Covered Public Person.
+(12) “Effective Economic Exposure” means the net economic sensitivity of a person or Compliance Lineage to a bounded financial referent after considering positions that form one economic arrangement and bona fide offsets that genuinely reduce that same exposure.
+(13) “Final Economic LIAA Violation” means—
+    (A) a final judgment of a United States district court establishing a V1, V2, or V5 violation; or
+    (B) a written civil settlement in which the person expressly admits a V1, V2, or V5 violation for purposes of the repeat-violation provisions of this Act.
+The term does not include a referral, preliminary or final administrative finding, chamber ethics finding standing alone, or a settlement that contains no such admission.
+(14) “Materially Concentrated” means—
+    (A) with respect to a publicly offered, registered, or index-based fund or vehicle, that the stated policy, investment objective, governing index eligibility criteria, constituent-selection or weighting methodology, or other binding investment mandate is designed to concentrate economic exposure in a single industry, single business, objectively bounded economic theme, single non-United-States country, single commodity, single digital asset or narrow digital-asset group, or single State or territorial municipal market; or
+    (B) with respect to a private, nonpublic, bespoke, or other vehicle for which the design test in subparagraph (A) is not reasonably dispositive, that 25 percent or more of the vehicle’s net asset value or Effective Economic Exposure is attributable to the bounded referent.
+For an objectively bounded economic theme, concentration under subparagraph (A) requires that the theme materially determine eligibility, selection, weighting, or the binding investment mandate; marketing language, commentary, or incidental holdings alone are insufficient. A genuinely broad diversified market fund does not become Materially Concentrated solely because passive market-value changes increase the weight of one industry, issuer group, or other referent while the vehicle continues to track a genuinely broad diversified index or mandate that does not select that referent. This paragraph does not protect a vehicle whose formal description is used to disguise a mandate or selection method designed to reproduce a Covered Financial Exposure.
+(15) “Member of Congress” has the meaning given in section 13101(12) of title 5, United States Code.
+(16) “Office of Government Ethics” or “OGE” means the Office of Government Ethics established under section 13121 of title 5, United States Code.
+(17) “Penalty Exposure Value” or “PEV” means the dollar value of the Effective Economic Exposure constituting the Covered Financial Exposure Attributable to the liable person at the measurement point specified by section 9.
+(18) “Permitted Diversified Investment” means—
+    (A) an obligation of the United States;
+    (B) a diversified mutual fund, diversified index fund, broad-based exchange-traded fund, target-date fund, pension fund, diversified retirement fund, or comparable widely held vehicle that is not Materially Concentrated in a referent described in paragraph (7)(A) through (G);
+    (C) a broad factor or style fund whose methodology is not Materially Concentrated in a single industry, business, bounded economic theme, single non-United-States country, single commodity, single digital asset or narrow digital-asset group, or single State or municipal market;
+    (D) a broadly diversified national municipal fund; and
+    (E) another broadly diversified investment vehicle that does not materially reproduce a Covered Financial Exposure through concentration, look-through exposure, or portfolio synthesis.
+(19) “Principal Compliance Effective Date” or “T0” means the date specified in section 19(b).
+(20) “Protected Legislative Act” means an act protected by the Speech or Debate Clause, including voting, speaking, debating, introducing legislation, committee deliberation, preparing legislative reports, conducting protected legislative inquiry, or another act within the legitimate legislative sphere.
+(21) “Responsible Filer” means—
+    (A) for an adult Covered Person, the Covered Person; and
+    (B) for a minor Dependent Child, the parent, guardian, custodian, trustee, or other adult who has legal authority to obtain the relevant financial information and make the required filing or certification, but only to the extent of that legal authority.
+(22) “LIAA Transition Trust” means a trust approved under section 7 that—
+    (A) is managed by an independent fiduciary-qualified trustee with no disqualifying conflict of interest, using independence standards substantially equivalent to the trustee-independence safeguards applicable to a qualified blind trust under section 13104(f) of title 5 where practicable;
+    (B) prohibits the beneficiary from directing, controlling, requesting, or receiving information concerning specific holdings, transactions, issuer-specific strategy, or sector-specific timing, except information required for tax reporting, aggregate value reporting, or compliance certification;
+    (C) prohibits communication between beneficiary and trustee concerning specific investment selection or timing except as expressly authorized by law;
+    (D) requires the trustee to eliminate Covered Financial Exposure within the remaining applicable Compliance Lineage deadline unless a lawful extension or tolling period applies; and
+    (E) requires periodic certification as specified by the Applicable Administrator.
+Placement in a LIAA Transition Trust isolates control but does not by itself terminate beneficial Attribution, cure the Covered Financial Exposure, or begin a new compliance clock. A LIAA Transition Trust is not a qualified blind trust under section 13104(f) of title 5 unless it separately satisfies and is approved under that law.
+(23) “Separated Spouse” means a spouse who is living separate and apart from the Covered Public Person with the intent to terminate the marriage or provide a permanent separation.
+(24) “Senior Congressional Staff” means—
+    (A) an officer or employee of Congress described in section 13101(13)(A) or (C) of title 5, United States Code; or
+    (B) a congressional employee whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives and who is designated under section 11(l) because the employee has regular access to nonpublic legislative, budgetary, oversight, regulatory, national-security, or market-sensitive governmental information of a kind that creates a conflict risk materially comparable to the class described in subparagraph (A).
+(25) “Statutory Net Gain” means the positive actual economic gain attributable to a Covered Financial Exposure during the period specified by section 9(j), calculated without use of a hypothetical loss-avoided measure.
+PART III — PROHIBITION AND ASSET MANAGEMENT
+§ 6. Financial-Exposure Prohibitions.
+(a) Voluntary Acquisition or Increase.
+After this Act applies to a Covered Person, the Covered Person may not voluntarily purchase, acquire, elect, create, direct, or materially increase a Covered Financial Exposure.
+(b) Synthetic and Indirect Exposure.
+Subsection (a) applies without regard to whether the exposure is created through—
+    (1) direct ownership;
+    (2) a derivative, short position, structured product, or synthetic instrument;
+    (3) an Attribution Vehicle or Arrangement;
+    (4) multiple positions that, when evaluated together, reproduce the prohibited Effective Economic Exposure; or
+    (5) another economic substitute.
+(c) Retention After Deadline.
+A Covered Person may not retain an Attributable Covered Financial Exposure after the operative Compliance Lineage deadline established under section 7, unless a lawful extension, tolling period, or authorized review stay is then in effect.
+(d) Permitted Diversified Investments.
+Nothing in this section prohibits acquisition, retention, sale, rebalancing, contribution, or other ordinary activity involving a Permitted Diversified Investment, unless the activity forms part of an arrangement that reproduces a Covered Financial Exposure under subsection (b).
+(e) Compliance Transactions.
+A Compliance Transaction is expressly permitted notwithstanding any transaction restriction in this Act.
+(f) Immediate No-Increase Rule.
+During any transition, extension, tolling period, or authorized review stay, a Covered Person may not voluntarily increase or recreate the Covered Financial Exposure.
+(g) Bona Fide Offsets.
+Where positions are part of one bona fide economic arrangement, Effective Economic Exposure shall be determined after recognizing an offset that genuinely reduces the same bounded exposure. An unrelated position or a position created primarily to disguise a Covered Financial Exposure shall not reduce that exposure for purposes of this Act.
+(h) No Legislative-Motive Element.
+A violation of this section does not require proof concerning a Protected Legislative Act, legislative motive, use of nonpublic information, official causation of market movement, or intent to influence official action.
+(i) No Constructive Qualification.
+Failure to comply with this section shall not prevent a person from appearing on a ballot, being elected, being seated, taking the oath of office, or serving as a Member of Congress. Remedies are limited to those authorized by this Act and by the constitutional authority of the applicable House.
+§ 7. Transition, Divestiture, Trusts, and Successor Accounting.
+(a) Initial Act-Wide Transition.
+A person who is a Covered Person on T0 and who then has an Attributable Covered Financial Exposure shall cure that exposure not later than 180 days after T0.
+(b) Later Covered Status.
+A person who becomes a Covered Person after T0 shall cure any Covered Financial Exposure Attributable on the date covered status begins not later than 90 days after that date.
+(c) Later Nonpurchase or Involuntary Acquisition.
+A Covered Person who acquires a Covered Financial Exposure after coverage through inheritance, divorce settlement, mandatory distribution, involuntary corporate action, non-elective employer compensation, or another acquisition not constituting a voluntary acquisition under section 6(a) shall cure the exposure not later than 90 days after the acquisition becomes legally operative and disposition is legally available.
+(d) Exposure-State Change.
+If an existing financial interest becomes a Covered Financial Exposure because its Effective Economic Exposure materially changes without voluntary direction by the Covered Person, the person shall cure the exposure not later than 90 days after the change is known or reasonably should be known through the diligence required by subsection (e). A deliberately directed creation or increase is governed by section 6(a) and does not receive this grace period.
+(e) Reasonable Diligence.
+    (1) An adult Covered Person shall take reasonable steps, at least annually and upon a material account, trust, employment-compensation, household-status, or ownership change, to identify Attributable financial exposures in—
+        (A) accounts the person owns;
+        (B) arrangements from which the person has a present material economic benefit;
+        (C) entities the person controls and from which the person has a present material economic benefit;
+        (D) trusts, estates, custodial arrangements, or other vehicles for which the person has a legal information right; and
+        (E) adviser-managed or trustee-managed arrangements to the extent the person may lawfully obtain compliance-level information.
+    (2) The diligence duty does not require a person to—
+        (A) obtain information the person has no legal right to receive;
+        (B) violate a lawful blind-trust or fiduciary restriction;
+        (C) obtain the identity of holdings that a lawful trust structure prohibits the person from receiving; or
+        (D) investigate an independent spouse’s confidential accounts beyond the spouse’s direct certification and OGE-administered obligations under this Act.
+    (3) For a minor Dependent Child, the Responsible Filer’s diligence duty is limited to property over which the Responsible Filer has legal authority or a legal right to receive the relevant information.
+    (4) A person may not manufacture lack of knowledge by using an unrestricted adviser, trustee, nominee, or custodial arrangement that the person knew or reasonably should have known could acquire Covered Financial Exposure.
+(f) Discovery.
+If a Covered Person discovers an Attributable Covered Financial Exposure that was not previously known despite the diligence required by subsection (e)—
+    (1) the Responsible Filer shall notify the Applicable Administrator not later than 30 days after discovery; and
+    (2) the exposure shall be cured not later than 90 days after discovery, subject to subsections (h) and (i).
+This subsection applies to an exposure not created by a voluntary acquisition or increase that constitutes V1. A V1-originated exposure is governed by section 9(c)(4). Knowledge affects cure, liability, and notice; lack of knowledge does not by itself erase Attribution.
+(g) Methods of Cure.
+A Covered Financial Exposure may be cured through—
+    (1) divestiture;
+    (2) conversion into a Permitted Diversified Investment;
+    (3) termination or unwind of the applicable derivative, synthetic, or substitute position;
+    (4) a genuine disposition that severs Attribution without retained benefit, control, substitution, nominee relation, or evasion;
+    (5) trustee disposition under a LIAA Transition Trust; or
+    (6) another method that actually eliminates the Covered Financial Exposure.
+(h) Ordinary Extensions.
+The Applicable Administrator may grant written, asset-specific extensions for difficult but legally possible compliance if—
+    (1) each extension is not longer than 45 days;
+    (2) all extensions for the same Compliance Lineage do not exceed 90 additional days in the aggregate;
+    (3) the extension is reasonably necessary because of administrative complexity, transaction complexity, trust processing, certificate processing, or another comparable circumstance;
+    (4) the extension is not granted for market timing, speculation, or anticipated price advantage;
+    (5) the person remains subject to the no-increase rule; and
+    (6) the public record states the revised deadline and a generalized reason code without disclosing protected supporting evidence.
+(i) True Legal Impossibility and Tolling.
+If disposition is objectively legally impossible, the Applicable Administrator may toll the cure deadline for the period of impossibility if—
+    (1) the Responsible Filer gives timely notice and documentation;
+    (2) the Covered Person does not voluntarily increase the exposure;
+    (3) the responsible person takes reasonable lawful steps to reduce the conflict where partial reduction is available;
+    (4) the continuing impossibility is reconfirmed at least every 90 days; and
+    (5) the public record identifies the tolling status, generalized reason category, and next review date.
+When legal disposition becomes available, the Covered Person shall cure the exposure not later than 90 days after availability returns.
+(j) Self-Created Impossibility.
+Tolling is unavailable to the extent the claimed impossibility results from a restriction that a responsible person voluntarily creates, renews, materially extends, causes, or knowingly maintains after the duty attaches for the purpose or reasonably foreseeable effect of delaying compliance.
+(k) LIAA Transition Trust.
+A Covered Person may use a LIAA Transition Trust as a managed transition device.
+    (1) For a Covered Public Person, the trustee and trust form shall be approved by the Applicable Congressional Ethics Office.
+    (2) For a Covered Household Person, the trustee and trust form shall be approved by OGE.
+    (3) Transfer to the trust does not start a new Compliance Lineage or cure underlying Covered Financial Exposure.
+    (4) The trustee shall eliminate Covered Financial Exposure within the remaining original deadline, including any valid extension or tolling period.
+    (5) The beneficiary may not direct, request, or receive information concerning specific investment selection or timing except as permitted by section 5(22).
+    (6) A trust that separately qualifies under section 13104(f) of title 5 may also serve as a LIAA Transition Trust if it satisfies this Act.
+(l) Adviser-Directed and Custodial Exposure.
+A Covered Person who did not direct an exposure created by an adviser, trustee, custodian, or other third party and who maintained a compliant mandate shall not be treated as having committed a voluntary acquisition solely because the exposure arose. For purposes of this subsection, a compliant mandate is a written mandate that—
+    (1) prohibits acquisition of Covered Financial Exposure or limits the manager to Permitted Diversified Investments;
+    (2) does not reserve to the Covered Person a direction right inconsistent with this Act; and
+    (3) requires compliance-level notice sufficient to permit the person to satisfy lawful reporting and cure duties without requiring disclosure that a lawful blind-trust restriction forbids.
+The person remains responsible for notice and cure after the person knows or reasonably should know of the exposure through subsection (e). A guardian or custodian of a Dependent Child carries only the corrective duties that the guardian or custodian has legal authority to perform.
+(m) One Compliance Lineage.
+A change in account, trustee, adviser, custodian, trust, entity, wallet, partnership, or other container does not restart a cure period for the same unresolved Covered Financial Exposure.
+(n) Status End.
+Termination of covered status ends the forward ownership restriction arising solely from that status but does not extinguish an accrued reporting obligation, completed violation, pending review, civil action, Statutory Net Gain obligation, or other accrued liability.
+(o) Certificate of Divestiture.
+A Covered Person seeking treatment under section 1043 of the Internal Revenue Code of 1986 shall apply before the sale for which such treatment is sought.
+    (1) For a Covered Public Person, the Applicable Congressional Ethics Office shall issue a written LIAA divestiture-necessity certification when it determines that divestiture of identified property is required by this Act.
+    (2) For a Covered Household Person, OGE shall make the LIAA divestiture-necessity determination.
+    (3) OGE shall administer issuance of the Federal certificate of divestiture in accordance with section 1043, as amended by section 18 of this Act.
+    (4) OGE shall not reweigh a congressional ethics office’s LIAA divestiture-necessity certification, but may determine certificate eligibility, completeness, property identification, and other requirements of the Federal certificate program.
+    (5) A final judgment under section 14 establishing that divestiture is required may serve as an alternative statutory necessity predicate for certificate issuance.
+    (6) Administrative delay in processing a complete certificate request may support an extension under subsection (h) but does not authorize a voluntary increase in the exposure.
+(p) Counseling.
+The Applicable Congressional Ethics Office and OGE, for the persons each administers, shall provide or arrange reasonable no-cost compliance counseling concerning transition to lawful investment structures.
+PART IV — TRANSPARENT RECORDKEEPING
+§ 8. Public Compliance Ledger and Protected Administrative Record.
+(a) Two-Layer Record.
+The Act shall be administered through—
+    (1) a Public Compliance Ledger containing the minimum information necessary to reconstruct LIAA compliance; and
+    (2) a Protected Administrative Compliance Record containing evidence, private identifiers, trust materials, account materials, tax materials, investigative information, and other information that is not required for the public-audit function.
+(b) Public Record Carriers.
+    (1) The Clerk of the House of Representatives shall maintain the official public LIAA records associated with House Members and House-administered Covered Public Persons.
+    (2) The Secretary of the Senate shall maintain the official public LIAA records associated with Senators and Senate-administered Covered Public Persons.
+    (3) OGE shall transmit the public field set associated with a Covered Household Person to the public-record carrier associated with the applicable Covered Public Person.
+    (4) For a joint or otherwise unusual congressional employment relation, the public carrier shall be the office associated with the entity that disburses the employee’s congressional compensation unless a statute or chamber rule provides otherwise.
+(c) Compliance Lineage Identifier.
+Each LIAA-specific public compliance sequence shall use a stable, non-sensitive Compliance Lineage identifier that remains associated with the same unresolved exposure through transition, trust placement, extension, tolling, authorized review, correction, cure, and final disposition. The identifier shall not encode a Social Security number, tax identifier, account number, or other sensitive personal identifier.
+(d) Required Public Events.
+The Public Compliance Ledger shall support, as applicable—
+    (1) initial, annual, and termination compliance certification;
+    (2) initial Act-wide transition;
+    (3) later status attachment;
+    (4) special or involuntary acquisition;
+    (5) exposure-state change;
+    (6) discovery;
+    (7) Compliance Transaction;
+    (8) LIAA Transition Trust or managed-transition status;
+    (9) extension;
+    (10) tolling;
+    (11) authorized reconsideration or judicial review stay;
+    (12) partial cure;
+    (13) full cure;
+    (14) termination of covered status;
+    (15) a publicly filed civil action;
+    (16) a final public civil disposition or final public chamber ethics finding; and
+    (17) correction or supersession.
+(e) Compliance Certifications.
+    (1) Initial Certification.—Not later than 30 days after the later of T0 or the date a person first becomes covered, the Responsible Filer shall certify that required LIAA financial inventory and diligence have been completed, that known Covered Financial Exposures have been entered into lawful Compliance Lineages, and that no known Covered Financial Exposure is being omitted.
+    (2) Annual Certification.—On or before May 15 of each year, a Responsible Filer for a person who was a Covered Person for more than 60 days during the preceding calendar year shall provide an annual certification stating in substance that no Attributable Covered Financial Exposure exists outside a disclosed lawful Compliance Lineage and that required diligence obligations have been completed. The Applicable Administrator shall integrate the certification with an existing annual Federal financial-disclosure filing where practicable.
+    (3) Termination Certification.—Not later than 30 days after the relevant covered relation ends, the Responsible Filer shall certify the termination date and identify any unresolved accrued LIAA matter.
+    (4) A Covered Household Person or Responsible Filer for a minor Dependent Child shall submit the applicable certification to OGE. The public ledger shall display only the holder category, certification status, date, and related public lineage fields.
+(f) Event Notice.
+Where another provision of this Act or existing Federal financial-disclosure law does not provide a more specific reporting period, a Responsible Filer or other person expressly assigned a reporting duty under this Act shall report a material LIAA public event to the Applicable Administrator not later than 15 calendar days after that person knows or reasonably should know of the event through the diligence required by this Act.
+(g) Carrier Transmission and Posting.
+    (1) An originating administrator shall transmit or enter a complete public field set not later than 5 business days after the field set is administratively complete.
+    (2) The Clerk or Secretary shall post the complete field set not later than 5 business days after receipt.
+    (3) A public LIAA event shall not be withheld beyond an otherwise applicable Federal 30-day online-publication outer period after the underlying complete public filing or record is received, absent a lawful privacy suppression, court order, or express statutory protection.
+(h) Public Field Set.
+The public field set shall include, as applicable—
+    (1) the name of the Covered Public Person, except that if the identity of otherwise covered staff is lawfully withheld under Federal law, lawful classification authority, or a duly adopted chamber security rule implementing a specific classified-personnel or security protection, the ledger may use a non-identifying protected-status record while the Applicable Administrator retains the identity;
+    (2) chamber and covered-role category;
+    (3) holder category, stated as “PUBLIC PERSON,” “SPOUSE,” or “DEPENDENT CHILD,” without requiring the name of a spouse or dependent child for the LIAA-specific ledger;
+    (4) Compliance Lineage identifier;
+    (5) exposure classification;
+    (6) asset or financial-interest name and public identifier where lawfully available and necessary;
+    (7) instrument type;
+    (8) bounded-referent category;
+    (9) value range, using the ranges in section 13104 of title 5 where practicable;
+    (10) trigger type and trigger date;
+    (11) filing, decision, transmission, and posting dates as applicable;
+    (12) original and current cure deadlines;
+    (13) extension, tolling, or authorized-review status and generalized reason code;
+    (14) cure date and cure-method category;
+    (15) coverage-end date;
+    (16) final public disposition, if any;
+    (17) correction or supersession relation; and
+    (18) a link to a public source document where such a document lawfully exists.
+(i) Exposure Classification and Compliance Status.
+The public system shall maintain financial classification separately from compliance or enforcement status.
+    (1) Exposure classification may include—
+        (A) “NO ACTIVE LIAA-COVERED EXPOSURE REPORTED”;
+        (B) “LIAA-COVERED EXPOSURE IDENTIFIED”;
+        (C) “LIAA-COVERED EXPOSURE PARTIALLY REMOVED”; and
+        (D) “LIAA-COVERED EXPOSURE REMOVED.”
+    (2) Compliance status may include—
+        (A) “CERTIFIED — NO ACTIVE LINEAGE”;
+        (B) “LAWFUL TRANSITION ACTIVE”;
+        (C) “EXTENSION ACTIVE”;
+        (D) “TOLLING ACTIVE”;
+        (E) “AUTHORIZED REVIEW / STAY ACTIVE”;
+        (F) “PARTIAL CURE — LINEAGE ACTIVE”;
+        (G) “CURED — LINEAGE CLOSED”;
+        (H) “COVERAGE ENDED”;
+        (I) “STATUS UNRESOLVED AFTER RECORDED DEADLINE”;
+        (J) “CIVIL ACTION PENDING”;
+        (K) “FINAL CIVIL VIOLATION”;
+        (L) “FINAL CIVIL DISPOSITION”;
+        (M) “FINAL CHAMBER ETHICS FINDING”; and
+        (N) “RECORD CORRECTED / SUPERSEDED.”
+    (3) A certification of no active exposure shall be temporally bounded, such as “CERTIFIED — NO ACTIVE LIAA-COVERED EXPOSURE REPORTED AS OF [DATE].”
+    (4) No public label of final violation may be generated solely from an audit anomaly, referral, preliminary investigation, administrative allegation, nonfinal compliance determination, or settlement that contains no admission or adjudication of a violation.
+(j) Extensions and Tolling.
+A public extension or tolling record shall state the applicable dates and a standardized generalized reason code. Supporting contracts, trust instruments, account evidence, legal memoranda, private family information, and other evidence shall remain protected unless independently required to be public by law.
+(k) Trust Status.
+The public record may identify the existence, approval date, administering carrier, and transition status of a LIAA Transition Trust. The full trust instrument and private trustee communications shall not be required in the public ledger.
+(l) Private and Illiquid Assets.
+Where exact identification of a nonpublic underlying interest would disclose information protected by law or protected third-party proprietary information, the public record may use a standardized description such as “NONPUBLIC UNDERLYING EXPOSURE — [STATUTORY REFERENT CATEGORY],” provided the Applicable Administrator retains exact identification and the public record states the lawful basis for withholding the identifier. This authority shall not create a general private-fund blackout.
+(m) No Routine LIAA Reporting of Permitted Diversified Transactions.
+A transaction involving only a Permitted Diversified Investment shall not create a separate LIAA-specific transaction-reporting duty solely because it occurred. Existing financial-disclosure law remains independently applicable.
+(n) Machine-Readable Architecture.
+The public system shall be—
+    (1) searchable;
+    (2) sortable;
+    (3) downloadable by record and in bulk;
+    (4) available through a documented public application programming interface;
+    (5) available in an open, nonproprietary machine-readable format;
+    (6) available without a fee or registration requirement for public LIAA data;
+    (7) designed and maintained to meet the technical and functional performance criteria in the accessibility standards issued by the Access Board under section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), as those standards are lawfully revised;
+    (8) accompanied by a public data dictionary;
+    (9) accompanied by stable public source-document links where available; and
+    (10) accompanied by schema and API version documentation and a reasonable migration path.
+(o) Common Technical Schema.
+The Clerk and Secretary shall jointly maintain a common LIAA technical schema after consultation with the Applicable Congressional Ethics Offices, OGE, and GAO.
+    (1) The statute controls the minimum semantic content, status meanings, privacy limits, lineage rule, retention rule, and legal consequence.
+    (2) A technical standard may not add a new Covered Financial Exposure category, alter who is covered, change a legal deadline, alter a penalty or filing fee, change the legal public/protected boundary, or create a new legal consequence.
+    (3) If a technical update is not adopted, the existing lawful schema remains in force.
+(p) Protected Information.
+The public ledger shall not disclose—
+    (1) Social Security or taxpayer-identification numbers;
+    (2) full birth dates;
+    (3) home addresses;
+    (4) private email addresses or telephone numbers;
+    (5) account or routing numbers;
+    (6) private keys, seed phrases, or credentials;
+    (7) dependent-child names;
+    (8) trust instruments not otherwise public;
+    (9) tax returns;
+    (10) protected legal advice;
+    (11) confidential investigative submissions; or
+    (12) other information whose public disclosure is unnecessary to the public-audit function and prohibited or protected by law.
+(q) Corrections.
+    (1) A person whose public record contains an asserted factual error may request correction.
+    (2) The originating administrator or public-record carrier, as appropriate, shall decide a sufficiently complete ordinary factual correction request not later than 10 business days after receipt and shall post an approved correction not later than 3 business days after decision.
+    (3) A dispute over the underlying legal classification is governed by sections 10 and 14 and is not merely a data-correction request.
+    (4) If a public record exposes clearly protected personal information, the carrier may immediately suppress or redact the affected public field, with a target of not later than 1 business day after credible notice, while preserving the lawful internal audit record.
+    (5) Ordinary corrections shall preserve public supersession history. A privacy correction shall preserve the fact of correction without republishing the protected value.
+(r) Retention.
+Person-identifiable public LIAA records shall be retained until 6 years after the later of—
+    (1) the end of the relevant covered relation; or
+    (2) final disposition of the applicable Compliance Lineage.
+A record shall be retained longer while reasonably necessary for an ongoing investigation, review, civil action, or other lawful proceeding.
+PART V — ENFORCEMENT AND CONSEQUENCES
+§ 9. Violations, Filing Fees, Civil Remedies, and External Enforcement.
+(a) Violation and Fee Classes.
+(1) V1 — Voluntary Prohibited Acquisition or Increase.
+A Covered Person violates this paragraph by conduct prohibited under section 6(a) or 6(b).
+(2) V2 — Post-Deadline Prohibited Retention.
+A Covered Person violates this paragraph by retaining an Attributable Covered Financial Exposure after the operative deadline under section 7 or the corrective-sequencing date under subsection (c)(4) when no lawful extension, tolling period, authorized review stay, or status termination prevents the deadline from operating.
+(3) V3 — Non-Willful Late Filing Fee Event.
+A Responsible Filer whose required LIAA certification, event notice, cure notice, or other required compliance record remains unfiled more than 30 days after the applicable due date or lawful extension is subject to the filing fee in subsection (e). A V3 event is an administrative filing-fee matter and does not by itself constitute an external civil violation or authorize a final public violation label. Knowing or willful falsehood, concealment, or knowing and willful failure to file is governed by V4.
+(4) V4 — Knowing False Certification or Concealment.
+A person violates this paragraph by knowingly and willfully—
+    (A) materially falsifying a required LIAA certification or filing;
+    (B) materially omitting a required Covered Financial Exposure or Compliance Lineage;
+    (C) falsifying a cure date, tolling basis, trust status, holder category, or other material compliance fact; or
+    (D) knowingly and willfully failing to file a required LIAA record for the purpose or reasonably foreseeable effect of concealing material noncompliance.
+(5) V5 — Knowing Evasion or Substitute Structure.
+A person violates this paragraph by knowingly structuring, using, directing, maintaining, or causing a nominee, trust, entity, account, fund, wallet, adviser arrangement, derivative, transfer, restriction, or other substitute arrangement to preserve a Covered Financial Exposure while evading an operative duty of this Act.
+(6) V6 — Failure of an Express Corrective Duty After Notice.
+A person who has a legally assigned corrective duty and actual notice may be held responsible for failure to perform that duty. Except where Congress expressly provides a distinct consequence, conduct under this paragraph shall be remedied through the otherwise applicable V2, V3, V4, or V5 rule or treated as an aggravating fact rather than as a duplicate monetary penalty.
+(7) V7 — Knowing Material Assistance to Evasion.
+A person who is not otherwise liable as the principal Covered Person violates this paragraph if the person—
+    (A) has actual knowledge of the material facts establishing a V5 evasive arrangement;
+    (B) knowingly provides substantial or material assistance to implement or maintain that arrangement; and
+    (C) knowingly participates in carrying the Covered Financial Exposure around an operative requirement of this Act.
+Good-faith legal, tax, accounting, fiduciary, technical, or investment advice alone does not constitute V7 unless the person also knowingly participates in implementation or maintenance of the evasive arrangement. Advocacy, representation, or analysis in a compliance, ethics, tax, administrative, or judicial proceeding, without executing, arranging, controlling, transferring, or causing the financial structure at issue, does not by itself constitute substantial or material assistance under this paragraph.
+(b) Penalty Exposure Value.
+(1) General Rule.
+PEV shall measure the Effective Economic Exposure actually constituting the Covered Financial Exposure and shall not be determined solely by purchase price, premium, collateral, margin, account value, or marketing label.
+(2) Direct Equity, Debt, or Fund Interest.
+PEV is the fair market value of the Attributable Covered Financial Exposure.
+(3) Short Position.
+PEV is the absolute fair market value of the underlying prohibited short exposure.
+(4) Linear Future, Forward, or Swap.
+PEV is the absolute economic notional attributable to the bounded prohibited referent, adjusted for a participation factor materially below one.
+(5) Option, Warrant, or Nonlinear Derivative.
+PEV is the absolute delta-adjusted underlying exposure, calculated using an objectively recognized market measure. If delta is not reasonably available or is materially misleading for the instrument, another objectively recognized risk-equivalent measure may be used consistent with the statute and the nonbinding technical examples maintained under section 11.
+(6) Event Contract.
+PEV is the maximum net amount economically exposed to gain or loss on the bounded event, without double counting collateral included elsewhere in the same Compliance Lineage.
+(7) Private or Illiquid Interest.
+PEV is the reasonable fair market value of the Attributable Covered Financial Exposure based on the most recent reliable valuation reasonably available.
+(8) Fund or Vehicle.
+If the vehicle itself is a Covered Financial Exposure because its governing policy or structure is Materially Concentrated, PEV is the fair market value of the Attributable vehicle interest. If only a separable look-through portion constitutes the Covered Financial Exposure, PEV is the Attributable value of that portion.
+(9) Portfolio Synthesis.
+Where several positions jointly constitute one Covered Financial Exposure, PEV is the net Effective Economic Exposure after bona fide offsets within that same economic arrangement. The same exposure shall not be penalized at gross value merely because several legs create it.
+(c) V1 Civil Penalty.
+(1) Ordinary Penalty.
+A V1 violation is subject to a civil penalty equal to 10 percent of PEV measured at the time of the unlawful acquisition or increase.
+(2) Enhanced Penalty.
+For a knowing or willful V1 violation, a V1 violation by a person with a Final Economic LIAA Violation within the preceding 5 years, or a V1 violation involving V5 evasion, the court may impose a civil penalty of up to 20 percent of PEV.
+(3) First Non-Willful Mitigation.
+The court may reduce the ordinary V1 penalty by not more than 75 percent if the defendant proves that—
+    (A) the violation was not knowing or willful;
+    (B) the defendant had no Final Economic LIAA Violation within the preceding 5 years;
+    (C) there was no concealment, false certification, nominee arrangement, or knowing evasion;
+    (D) the defendant self-reported before receiving governmental notice of the violation;
+    (E) the defendant immediately ceased increasing the exposure;
+    (F) the defendant cured not later than 30 days after self-report or within a shorter lawful corrective deadline; and
+    (G) all required public and protected records were corrected.
+(4) V1-to-V2 Corrective Sequencing.
+    (A) Knowing or Willful V1.—If the V1 acquisition or increase was knowing or willful, V2 begins 30 days after the unlawful acquisition or increase unless the exposure is cured or a lawful stay or true legal impossibility prevents the retention deadline from operating.
+    (B) Other V1.—For a V1 acquisition or increase not proved knowing or willful, V2 begins 30 days after the earliest date on which the Covered Person—
+        (i) knew or reasonably should have known, through the diligence required by section 7(e), that the acquisition or increase created a Covered Financial Exposure;
+        (ii) self-reported the exposure;
+        (iii) received written notice from the Applicable Administrator that the exposure was prohibited; or
+        (iv) received a final administrative or judicial determination that the exposure was prohibited.
+    (C) Character of Period.—This paragraph does not create a lawful acquisition grace period. V1 is complete when the prohibited acquisition or increase occurs. The 30-day period is solely a remedial-sequencing rule that permits a reasonable corrective disposition before V2 duration penalties begin.
+(d) V2 Civil Penalty.
+(1) Ordinary Rate.
+For ordinary unlawful retention, the civil penalty is—
+    (A) 2 percent of average PEV for each 30 days of unlawful retention;
+    (B) prorated by day for a partial 30-day period; and
+    (C) capped at 20 percent of average PEV for the ordinary unlawful-retention course.
+(2) Enhanced Rate.
+For a knowing or willful unlawful-retention period, a period involving knowing V5 evasion, a period after deliberate refusal to comply with a final corrective determination, or a period involving a person with a Final Economic LIAA Violation within the preceding 5 years, the court may apply—
+    (A) a rate of up to 4 percent of average PEV for each 30 days;
+    (B) daily proration; and
+    (C) an aggregate V2 cap of 40 percent of average PEV for a course that contains an enhanced segment.
+(3) Prospective Culpability Segmentation.
+An enhanced V2 rate applies prospectively from the date the Government proves the enhanced condition began. A day may not be charged at both the ordinary and enhanced rate. If the Government proves the enhanced condition existed from the beginning of the unlawful-retention period, the enhanced rate may apply from that date.
+(4) Average PEV.
+For publicly valued exposure, average PEV is ordinarily the arithmetic average of reasonably ascertainable daily PEV during the applicable unlawful period. For a private or illiquid exposure, the court shall use reliable valuation evidence sufficient to produce a reasonable average without arbitrary maximum-value assumptions.
+(e) V3 Administrative Late Filing Fee.
+(1) Fee Schedule.
+At the direction of the Applicable Administrator—
+    (A) a Responsible Filer whose required record is more than 30 days late shall pay a filing fee of $500;
+    (B) for each additional completed 30-day period in which the required record remains late, the Responsible Filer shall pay an additional $500; and
+    (C) the aggregate non-willful filing fee shall not exceed $2,000 per required record.
+(2) Filing Still Required.
+Payment of a filing fee does not eliminate the duty to file or correct the record.
+(3) Extraordinary-Circumstances Waiver.
+The Applicable Administrator may waive or reduce a V3 filing fee in extraordinary circumstances under publicly stated procedural standards.
+(4) Reconsideration.
+A person directed to pay a V3 filing fee may seek reconsideration under section 10(h). A V3 fee does not require an Attorney General civil action or a district-court judgment as a prerequisite to the ministerial filing-fee obligation.
+(5) Treasury.
+V3 filing fees shall be deposited in the miscellaneous receipts of the Treasury.
+(f) V4 Civil Penalty.
+The Attorney General may bring a civil action for a V4 violation. The district court may impose a civil penalty not exceeding $50,000 for each materially false required filing or certification or each legally distinct knowing and willful failure to file. Separate false fields within one materially false required filing shall not automatically constitute separate maximum-penalty counts.
+(g) V5 Effect.
+V5 does not create a second full PEV-based penalty for the same economic conduct. V5 places the underlying V1 or V2 violation in the applicable enhanced tier. A distinct V4 false-record violation may be separately remedied because it protects a different statutory interest.
+(h) V7 Civil Penalty.
+For a V7 violation, the district court may impose a civil penalty not exceeding the greater of—
+    (1) $10,000; or
+    (2) the compensation received for the knowing material assistance.
+The court may also order appropriate preventive or corrective relief. The principal Covered Person’s PEV shall not automatically become the V7 penalty base.
+(i) Inflation Adjustment.
+The fixed-dollar amounts in subsections (e), (f), and (h) shall be adjusted annually using the methodology applicable to Federal civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note), as amended. OGE shall publish the adjusted amounts as a ministerial calculation and may not alter the underlying statutory methodology.
+(j) Statutory Net-Gain Surrender.
+(1) General Rule.
+A person liable for V1 or V2 shall surrender 100 percent of positive Statutory Net Gain attributable to the same Covered Financial Exposure during the applicable gain-accounting period.
+(2) One Lineage; One Gain Account.
+One Compliance Lineage carries one net-gain account. The same actual gain may be surrendered only once, notwithstanding that the conduct is described by more than one violation class.
+(3) Start Date.
+    (A) For a V1-originated lineage, gain accounting begins at the unlawful acquisition or increase.
+    (B) For an exposure lawfully acquired or Attributed that later becomes V2, gain accounting begins when lawful retention becomes unlawful.
+(4) Authorized Review Period.
+If a final material compliance determination is challenged under section 14 and the United States ultimately prevails on the classification, Attribution, covered-status, trigger, or divestiture question, positive actual gain attributable to the disputed exposure from the initial written adverse determination, if that determination is ultimately sustained in material part, through final cure shall be included in the same net-gain account notwithstanding the authorized review stay.
+    (A) No V2 civil penalty accrues solely from retention during the authorized stay.
+    (B) If the claimant prevails, no gain surrender arises solely from the review period.
+    (C) If each side prevails in part, the court shall allocate gain to the portion of exposure and period for which the United States ultimately prevails.
+This paragraph neutralizes review-period financial upside without treating the act of seeking judicial review as a violation.
+(5) End Date.
+Gain accounting ends when the exposure is fully cured, economically terminated, permissibly converted, expires, or the covered relation ends, whichever relevant terminal event first eliminates the unlawful or review-protected disputed exposure.
+(6) Included Economic Receipts.
+Statutory Net Gain includes, without double counting—
+    (A) appreciation;
+    (B) dividends;
+    (C) interest;
+    (D) distributions;
+    (E) option premium received;
+    (F) swap or derivative payments;
+    (G) realized or marked-to-market trading gains; and
+    (H) other actual economic receipts attributable to the Covered Financial Exposure.
+(7) Deductions.
+The calculation may subtract—
+    (A) economic value or basis at the lawful start point;
+    (B) bona fide additional capital contributions allocable to the same exposure; and
+    (C) direct transaction costs.
+The calculation shall not subtract income taxes, unrelated financing costs, opportunity costs, losses on unrelated investments, unrelated portfolio hedges, or hypothetical loss avoided.
+(8) Zero or Negative Gain.
+If actual net gain is zero or negative, the surrender amount is zero. The absence of gain does not eliminate an otherwise established civil violation.
+(9) Partial Cure and Synthesis.
+Gain shall be allocated by the actual cured and uncured portions of the same Compliance Lineage. Gains and losses among legs that jointly constitute one prohibited Effective Economic Exposure may be netted within that lineage, but unrelated positions may not be used to reduce Statutory Net Gain.
+(k) Corrective and Preventive Relief.
+In an external civil action the district court may, as appropriate—
+    (1) order divestiture, disposition, conversion, or unwind;
+    (2) prohibit a specified new acquisition or increase;
+    (3) require a corrected filing or certification;
+    (4) require preservation or lawful production of required compliance records;
+    (5) enjoin an identified evasive structure; or
+    (6) order another objective measure necessary to complete an accrued cure obligation.
+Prospective relief shall remain tied to an active violation or accrued corrective obligation and shall not create an indefinite post-service ownership restriction after the covered relation has ended.
+(l) Anti-Stacking.
+    (1) The same actual gain may be surrendered once.
+    (2) V5 enhances an applicable V1 or V2 tier and does not add another full PEV-based penalty.
+    (3) Ordinary and enhanced V2 rates shall not apply to the same day.
+    (4) A V3 filing fee attributable to the same filing conduct shall be credited as necessary to avoid duplicative monetary treatment if that conduct is finally adjudicated as V4.
+    (5) Distinct misconduct may receive distinct consequences, but the same exposure value or unlawful period shall not be multiplied under overlapping labels absent an express statutory basis directed to a distinct harm.
+(m) Proportionality.
+Within an authorized range, the court may consider—
+    (1) violation class;
+    (2) PEV;
+    (3) duration;
+    (4) knowing or willful conduct;
+    (5) prior Final Economic LIAA Violations;
+    (6) concealment;
+    (7) evasion;
+    (8) self-report;
+    (9) prompt cure;
+    (10) valid written-guidance reliance;
+    (11) reasonable classification difficulty; and
+    (12) obstruction or record destruction.
+The court may reduce a punitive civil penalty to the extent necessary to avoid a constitutionally excessive result. This subsection does not authorize reduction of objectively calculated Statutory Net Gain solely because the gain is large.
+(n) Referral and Attorney General Authority.
+(1) Mandatory Administrative Referral.
+After notice and opportunity to respond, the Applicable Administrator shall refer a matter to the Attorney General when the Administrator has reasonable cause to believe that—
+    (A) V4, V5, or V7 occurred;
+    (B) an enhanced-tier V1 or V2 violation occurred;
+    (C) the person has a Final Economic LIAA Violation within the preceding 5 years and reasonable cause exists to believe another V1, V2, or V5 violation occurred; or
+    (D) V2 remains uncured for more than 30 days after written notice and no lawful extension, tolling period, or authorized review stay applies.
+(2) GAO Referral.
+GAO may refer an apparent anomaly or systemic matter supported by lawful nonprivileged evidence.
+(3) Independent Attorney General Authority.
+The Attorney General may investigate and bring a civil action based on a referral, public records, or other lawfully obtained evidence and is not jurisdictionally dependent on a referral from a congressional committee, OGE, or GAO.
+(4) No Preliminary Debt.
+Except for the ministerial V3 filing fee under subsection (e), a referral, administrative finding, audit finding, or notice does not create a civil debt, self-executing civil penalty, or conclusive factual determination for an external civil action.
+(o) Payment and Collection.
+(1) External civil penalties and Statutory Net Gain collected under this Act shall be deposited in the Treasury as miscellaneous receipts unless another Act of Congress expressly provides otherwise.
+(2) A Member or congressional employee may not satisfy personal LIAA liability using—
+    (A) the Members’ Representational Allowance;
+    (B) the Senators’ Official Personnel and Office Expense Account;
+    (C) campaign contributions;
+    (D) official-office donations; or
+    (E) another taxpayer-funded or official fund not lawfully appropriated for personal liability.
+(3) A Covered Household Person may not satisfy personal LIAA liability using campaign funds, congressional-office funds, or public funds. Ordinary lawful personal or marital property is not prohibited solely because household property is shared.
+(4) A liable person may not knowingly accept reimbursement or indemnification of a LIAA civil penalty or Statutory Net Gain obligation where the reimbursement is provided by the issuer or investment vehicle tied to the violation, a person who knowingly participated in the violation, a campaign or official source, or an arrangement designed to neutralize the deterrent effect of this Act.
+(p) Limitations.
+Nothing in this Act alters the application of section 2462 of title 28, United States Code, to an action to which that section applies. Post-deadline unlawful retention is continuing conduct for purposes of determining the substantive violation period, subject to otherwise applicable limitations law. Nothing in this subsection creates an open-ended government-discovery rule.
+(q) Jury Rights.
+Nothing in this Act limits the right to trial by jury secured by the Seventh Amendment or other applicable law. In an action seeking punitive civil monetary relief, contested factual issues shall be tried to a jury to the extent the Constitution or other law so requires.
+(r) No Criminalization by This Act Alone.
+This Act creates no new criminal offense. Nothing in this Act limits referral or prosecution under otherwise applicable criminal, securities, tax, false-statement, obstruction, or corruption law when independently supported by lawful evidence and elements.
+§ 10. Burden of Proof, Administrative Process, and Person-Specific Liability.
+(a) General Burden.
+In an external civil enforcement action brought by the United States, the United States bears the burden of proving a violation by a preponderance of the evidence based on nonprivileged evidence.
+(b) Monetary Burden.
+The United States bears the burden of proving—
+    (1) PEV;
+    (2) the duration of an unlawful retention period;
+    (3) Statutory Net Gain;
+    (4) the facts supporting an enhanced penalty tier; and
+    (5) any other fact necessary to calculate an external monetary consequence.
+
+
+(c) Knowledge and Willfulness.
+Where this Act requires knowledge or willfulness, the United States must prove the specified mental state. Willfulness requires proof that the person knew of the relevant duty and knowingly failed to comply, knowingly concealed material conduct, knowingly evaded the Act, or knowingly caused or materially assisted another person or arrangement to evade the Act.
+(d) No Automatic Household Liability.
+A Member or Senior Congressional Staff member is not civilly liable solely because a spouse or Dependent Child has a Covered Financial Exposure or commits a violation. Liability follows the person’s own statutory duty, conduct, knowledge, control, beneficial interest, concealment, evasion, certification, or failure to perform an assigned corrective duty after notice.
+(e) Minor Dependent.
+A minor Dependent Child shall not be the default monetary-liability bearer or direct certification filer. Liability and filing responsibility associated with property of a minor follow the Responsible Filer or other legally responsible adult’s own assigned duty, legal authority, and conduct.
+(f) Unknown Third-Party Exposure.
+A person who maintained a compliant mandate under section 7(l), did not direct the exposure, did not know and reasonably should not have known of the exposure after the diligence required by section 7(e), promptly reported after discovery, and cured within the lawful period shall not be treated as having committed V1 solely because Attribution existed.
+(g) Written Decisions.
+A material adverse compliance determination shall identify—
+    (1) the Covered Financial Exposure or record at issue;
+    (2) the applicable statutory duty;
+    (3) the relevant deadline or Compliance Lineage;
+    (4) the material facts relied upon;
+    (5) the reasons for the determination; and
+    (6) the available reconsideration or review route.
+(h) Internal Reconsideration.
+    (1) A person seeking reconsideration of a material adverse compliance determination shall submit the request not later than 30 days after receipt of the determination.
+    (2) Not later than 5 business days after receiving the request, the Applicable Administrator shall identify any material information reasonably necessary to complete the request. If the Administrator does not timely identify missing material information, the request is deemed complete on the fifth business day after receipt.
+    (3) The Applicable Administrator shall issue a written reconsideration decision not later than 30 days after the request is complete.
+    (4) The Administrator may extend the decision period once, for not more than 15 additional days, by written notice stating specific good cause.
+    (5) If the Administrator does not issue a decision by the applicable deadline, administrative exhaustion is deemed satisfied and the initial determination is treated as final for purposes of section 14.
+    (6) The reconsideration process shall permit written evidence and argument and shall end in a written decision if a decision is timely issued.
+(i) Administrative Stay During Reconsideration.
+A timely request for reconsideration of a material determination that would require irreversible disposition shall stay the disputed cure deadline to the necessary extent until reconsideration is resolved or deemed final under subsection (h), but shall not stay—
+    (1) the no-increase rule;
+    (2) disclosure or record-preservation duties;
+    (3) anti-evasion duties; or
+    (4) a prohibition on a new Covered Financial Exposure.
+(j) No Protected Evidence.
+No Protected Legislative Act, legislative motive, privileged legislative material, or protected legislative communication may be used to satisfy an element of liability or a monetary calculation under this Act.
+PART VI — GOVERNANCE AND AUDITING
+§ 11. Function-to-Carrier Governance.
+(a) Applicable Congressional Ethics Offices.
+The Applicable Congressional Ethics Office shall administer, for Covered Public Persons within its jurisdiction—
+    (1) prospective guidance;
+    (2) compliance intake and certification;
+    (3) initial financial classification and Attribution administration;
+    (4) LIAA Transition Trust and trustee approval;
+    (5) extension and tolling decisions;
+    (6) LIAA divestiture-necessity determinations;
+    (7) internal reconsideration;
+    (8) V3 filing fees, apparent-noncompliance records, and referrals; and
+    (9) internal chamber ethics matters under applicable chamber authority.
+(b) Office of Government Ethics.
+OGE shall administer, for Covered Household Persons—
+    (1) prospective LIAA guidance;
+    (2) compliance intake and certification;
+    (3) initial financial classification and Attribution administration;
+    (4) LIAA Transition Trust and trustee approval;
+    (5) extension and tolling decisions;
+    (6) divestiture-necessity determinations;
+    (7) internal reconsideration;
+    (8) apparent-noncompliance records, V3 filing fees, and referrals; and
+    (9) the Federal Certificate of Divestiture program as provided by section 1043 of the Internal Revenue Code of 1986 and section 18 of this Act.
+OGE does not administer internal congressional discipline.
+(c) Clerk and Secretary.
+The Clerk of the House and Secretary of the Senate shall carry the official public-record functions specified in section 8.
+(d) Government Accountability Office.
+GAO shall—
+    (1) audit the operation of this Act at the system level;
+    (2) evaluate data quality, carrier performance, extension and tolling patterns, public-record accuracy, remedy performance, and statutory maintenance;
+    (3) conduct the periodic and targeted reviews required or authorized by section 17;
+    (4) publish aggregate and system-level reports as provided by this Act; and
+    (5) refer apparent anomalies or systemic matters as authorized by law.
+GAO may not impose a final person-specific civil penalty, enter a final binding divestiture order, approve a LIAA Transition Trust solely by virtue of its audit function, determine final external liability, or impose a chamber leadership consequence.
+(e) Attorney General.
+The Attorney General shall carry the external civil-enforcement function described in section 9.
+(f) Article III Courts.
+United States district courts shall provide external statutory finality as specified by sections 9 and 14. An administrative, ethics, OGE, or GAO finding is not a substitute for the district court’s final external adjudication, except that a V3 filing fee is a ministerial administrative fee under section 9(e) rather than a punitive external civil penalty.
+(g) Internal Chamber Authority.
+Nothing in this Act displaces the constitutional authority of either House to discipline its Members or administer its employees.
+(h) Leadership and Committee Consequences.
+Any committee, subcommittee, or chamber leadership consequence associated with LIAA noncompliance shall operate only as a rule of the applicable House adopted or carried under article I, section 5 of the Constitution.
+    (1) A GAO finding, OGE finding concerning a household person, referral, or filing of a civil action shall not by itself trigger such a consequence.
+    (2) A final internal chamber ethics determination of knowing evasion, material knowing false certification or concealment, repeated knowing or willful V1 or V2 violations, or another rule-defined serious LIAA violation may serve as a trigger.
+    (3) A final Article III judgment may serve as an alternative evidentiary predicate if the applicable House so provides by rule.
+    (4) This subsection creates no additional qualification for membership in Congress.
+    (5) Subsections (g) and (h) are enacted as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and with full recognition of the constitutional right of either House to change such rules at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+(i) Inter-Carrier Consultation.
+At least annually, the Applicable Congressional Ethics Offices and OGE shall exchange material published LIAA guidance and consult concerning common statutory terms, recurring classification questions, transition administration, PEV examples, and public-person / household handoffs.
+    (1) Consultation creates no joint board and no majority-vote authority.
+    (2) Each carrier retains only its assigned lawful function.
+    (3) A material unresolved divergence shall be recorded in a non-case-specific manner where practicable and transmitted to GAO for system review and possible congressional recommendation.
+(j) PEV Technical Examples Manual.
+OGE shall maintain a public, nonbinding, versioned technical-examples manual illustrating application of the statutory PEV measurement rules.
+    (1) OGE shall consult, as relevant, the Applicable Congressional Ethics Offices, the Department of the Treasury, the Securities and Exchange Commission, the Commodity Futures Trading Commission, and another Federal financial regulator with instrument-specific expertise.
+    (2) The manual may illustrate measurement of equity, debt, shorts, linear derivatives, options, event contracts, private valuations, funds, and portfolio synthesis.
+    (3) The manual may not create a new Covered Financial Exposure, alter the statutory meaning of PEV, change a penalty or filing fee, bind a court, or retroactively reprice completed conduct.
+    (4) The manual shall be reviewed at least annually, updated as needed, dated, archived, and accompanied by material change notes.
+(k) Standardized Administrative Record.
+Each carrier shall maintain a standardized record sufficient for lawful handoff, including as applicable—
+    (1) status certification;
+    (2) exposure identification;
+    (3) Attribution basis;
+    (4) Compliance Lineage;
+    (5) deadline;
+    (6) extension or tolling decision;
+    (7) trust approval;
+    (8) divestiture-necessity determination;
+    (9) household compliance finding;
+    (10) referral; and
+    (11) certificate disposition.
+Public and protected fields shall remain separated under section 8.
+(l) Access-Based Senior-Staff Designation.
+An access-based designation under section 5(24)(B) shall—
+    (1) be made in writing by the Applicable Congressional Ethics Office;
+    (2) identify the objective access or responsibility supporting the designation without disclosing classified or protected legislative information;
+    (3) state the effective date;
+    (4) take effect not earlier than the date of notice to the employee, except that the no-new-prohibited-exposure rule applies immediately upon notice;
+    (5) give the employee 90 days from the effective date to cure Covered Financial Exposure held before designation, subject to section 7;
+    (6) permit reconsideration under section 10;
+    (7) be reviewed if the employee’s access or responsibilities materially change; and
+    (8) terminate prospectively when the factual basis for designation no longer exists, without extinguishing accrued duties or liabilities.
+PART VII — ADMINISTRATIVE IMPLEMENTATION AND RULEMAKING
+§ 12. Administrative Implementation and Rulemaking.
+(a) OGE Rulemaking.
+The Director of OGE shall promulgate such regulations as are necessary to carry out the functions expressly assigned to OGE under this Act, including procedures for—
+    (1) Covered Household Person registration, certification, and filing;
+    (2) Responsible Filer obligations for a minor Dependent Child;
+    (3) Attribution administration;
+    (4) LIAA Transition Trust approval;
+    (5) extension and tolling requests;
+    (6) internal reconsideration;
+    (7) V3 filing fees and extraordinary-circumstances waivers;
+    (8) public/protected data handoff to the Clerk or Secretary;
+    (9) LIAA divestiture-necessity determinations;
+    (10) Certificate of Divestiture administration; and
+    (11) other executive procedures necessary to carry OGE’s assigned functions.
+Regulations shall be promulgated through notice-and-comment procedures to the extent required by law. Before T0, OGE shall establish the procedures lawfully necessary for persons to perform duties that become operative on T0.
+(b) Substantive Boundary.
+No OGE regulation may alter a Congress-only substantive matter identified in section 17(m)(1), including who is covered, the legal boundary of Covered Financial Exposure, violation elements, outer statutory transition periods, civil-penalty rates or caps, V7 elements, judicial-review rights, or the legal public/protected information boundary.
+(c) Congressional Procedures.
+Each Applicable Congressional Ethics Office may publish chamber-compatible procedures, forms, and guidance necessary to administer the duties assigned to that office under this Act, subject to the same substantive boundary in subsection (b) and the constitutional authority of the applicable House.
+(d) Procedural Coordination.
+OGE, the Applicable Congressional Ethics Offices, Clerk, Secretary, and GAO may coordinate forms, data fields, technical definitions, filing interfaces, and implementation calendars to reduce duplicative administration. Coordination does not transfer a statutory function from one carrier to another.
+(e) No New Enforcement Body.
+Nothing in this section creates a commission, board, or independent adjudicatory body.
+PART VIII — ANTI-EVASION AND SAFE HARBOR
+§ 13. Anti-Evasion, Written Guidance, and Fair Notice.
+(a) Objective Anti-Evasion.
+A Covered Financial Exposure shall not cease to be Attributable merely because it is routed through an Attribution Vehicle or Arrangement, nominee, family member, private fund, wallet, adviser-directed account, trust, partnership, derivative, or other intermediary if an Attribution relation under section 5(3) remains.
+(b) Knowing Evasion.
+Heightened V5 treatment requires knowing conduct described in section 9(a)(5). The mere existence of a trust, adviser, family holding, private fund, or complex product does not establish knowing evasion.
+(c) Third-Party Assistance.
+Knowing material third-party assistance is governed solely by the elements of V7 in section 9(a)(7).
+(d) Written-Guidance Safe Harbor.
+Conduct taken in reasonable good-faith reliance on written guidance from the correct Applicable Administrator shall not constitute V1, V2, V4, or V5 for the period of valid reliance, and no Statutory Net Gain surrender arises solely from that validly authorized period, if—
+    (1) the person requested the guidance before engaging in the action or before an applicable corrective deadline;
+    (2) the person fully and accurately disclosed all material facts;
+    (3) the guidance addressed the material conduct at issue;
+    (4) the person acted in conformity with the guidance; and
+    (5) no material factual or legal change known to the person made the guidance inapplicable before the conduct occurred.
+(e) Withdrawal or Supersession.
+If valid written guidance is later withdrawn, superseded, or materially changed—
+    (1) the change operates prospectively;
+    (2) a financial interest that becomes subject to a different compliance position solely because valid written guidance is withdrawn, superseded, or materially changed shall be treated prospectively as an exposure-state-change matter under section 7(d); and
+    (3) no retroactive civil penalty, V2 duration penalty, or Statutory Net Gain surrender arises solely from the later change for the period of valid reliance.
+(f) No Safe Harbor for Incomplete or Evasive Record.
+No safe harbor applies to knowing concealment, false certification, materially incomplete guidance requests, undisclosed beneficial ownership, nominee evasion, or conduct materially outside the written guidance.
+(g) Public Guidance.
+Each Applicable Administrator shall publish material anonymized advisory guidance sufficient to promote consistent understanding without disclosing protected account information, household identity, investigative information, privileged legislative material, or Protected Legislative Acts.
+(h) Versioning and Supersession.
+Material public guidance shall be dated, versioned, archived, and linked to superseding guidance. A later guidance change does not retroactively create a violation or eliminate a valid prior safe harbor for completed conduct.
+(i) No Substantive Change by Guidance.
+Guidance, FAQs, technical examples, forms, data specifications, or administrative protocols may explain or implement this Act but may not alter the statutory meaning of a Covered Person, Covered Financial Exposure, violation, compliance deadline, filing fee, civil penalty, privacy boundary, or right of review.
+PART IX — JUDICIAL REVIEW, CONSTRUCTION, AND SEVERABILITY
+§ 14. Judicial Review and External Compliance Action.
+(a) Express Cause of Action.
+A person directly affected by a final or deemed-final material compliance determination after internal reconsideration may bring a civil action against the United States for determination of the person’s external statutory obligation under this Act if the person is—
+    (1) a Covered Person;
+    (2) a Responsible Filer acting for a minor Dependent Child;
+    (3) a guardian, custodian, or trustee directly subject to an assigned LIAA corrective duty; or
+    (4) another person directly subject to the material determination.
+A person may sue only to the extent of that person’s own legal duty, interest, or assigned compliance obligation.
+(b) Reviewable Determinations.
+A material compliance determination includes a final determination concerning—
+    (1) whether a financial exposure is a Covered Financial Exposure;
+    (2) Attribution;
+    (3) covered status, including an access-based staff designation;
+    (4) an exposure-state-change trigger;
+    (5) legal impossibility or tolling;
+    (6) denial of a material extension;
+    (7) objective LIAA Transition Trust compliance;
+    (8) divestiture necessity; or
+    (9) another final determination that would require an irreversible financial act or produce a material immediate external statutory consequence.
+(c) Sovereign Immunity and Jurisdiction.
+The United States waives sovereign immunity for an action authorized by this section. The United States district courts shall have jurisdiction over such actions without regard to amount in controversy.
+(d) Filing Period.
+An action under this section shall be filed not later than 30 days after the final reconsideration decision or the date reconsideration is deemed final under section 10(h), absent a statutory or equitable rule otherwise applicable.
+(e) Venue.
+An action may be brought in—
+    (1) the United States District Court for the District of Columbia; or
+    (2) the United States district court for the district in which the plaintiff resides.
+
+
+(f) Standard.
+(1) Objective Statutory Questions.
+The court shall determine de novo the plaintiff’s external statutory rights and obligations concerning an objective issue described in subsection (b).
+(2) Discretionary Extension Component.
+To the extent an extension decision involves discretion within an otherwise lawful statutory range after objective eligibility is established, the court shall set aside a decision that constitutes an abuse of discretion or is arbitrary or capricious under the express standard of this Act.
+(3) Record.
+The administrative record may be admitted as evidence but is not conclusive as to an external statutory right or liability. The court may receive additional lawful nonprivileged evidence necessary to resolve the dispute.
+(g) Burden in Compliance Action.
+    (1) The United States bears the burden of proving facts necessary to establish—
+        (A) covered status;
+        (B) Attribution;
+        (C) that the disputed financial interest is a Covered Financial Exposure;
+        (D) the applicable trigger; and
+        (E) the operative external statutory duty.
+    (2) The plaintiff bears the burden of proving a claimed extension, tolling condition, true legal impossibility, written-guidance safe harbor, or other affirmative exception to the extent the statute assigns the relevant facts to the plaintiff and those facts are peculiarly within the plaintiff’s possession.
+    (3) Nothing in this subsection authorizes use of a Protected Legislative Act or legislative motive.
+(h) Interim Protection.
+A timely action under this section shall stay the disputed cure or divestiture deadline to the necessary extent for the specific preexisting exposure in dispute and shall prevent accrual of a V2 civil penalty solely from retention of that disputed exposure during the authorized stay.
+    (1) The no-increase rule remains in effect.
+    (2) Disclosure, record-preservation, and anti-evasion duties remain in effect.
+    (3) No new Covered Financial Exposure may be created.
+    (4) The court may modify or dissolve the stay to prevent abuse.
+    (5) Review-period gain is governed by section 9(j)(4).
+(i) Post-Judgment Completion.
+If the plaintiff does not prevail and cure is legally available, the court shall provide a short completion period, ordinarily not longer than 30 days, sufficient to complete the required disposition. This is not a new ordinary 90-day transition period. Section 7(i) remains available for genuine legal impossibility.
+(j) No Review of Internal Chamber Discipline.
+This section does not authorize a court to review, reverse, compel, or supervise—
+    (1) censure or reprimand;
+    (2) committee assignments;
+    (3) chamber leadership;
+    (4) employment discipline internal to a House;
+    (5) protected legislative deliberation; or
+    (6) another matter committed to the constitutional authority of a House,
+except to the extent a separate constitutional or statutory cause of action independently provides jurisdiction.
+(k) Speech or Debate Protection.
+No action under this section may require inquiry into a Protected Legislative Act or legislative motive.
+(l) OGE and Other Executive Review.
+Nothing in this section eliminates otherwise applicable review under the Administrative Procedure Act for a distinct executive-branch action, including an OGE certificate decision, except to the extent this Act expressly supplies a different route.
+§ 15. Rule of Constitutional Avoidance.
+If a provision of this Act is susceptible to more than one construction, the construction that preserves its operation as an ethics, disclosure, asset-management, and conflict-prevention statute shall be preferred over a construction that would treat it as an additional qualification for office, punishment for a Protected Legislative Act, inquiry into legislative motive, or unauthorized transfer of a constitutionally assigned governmental function.
+§ 16. Severability.
+(a) General Severability.
+If any provision of this Act, or the application of any provision to any person or circumstance, is held invalid, the remainder of the Act and the application of its valid provisions to other persons or circumstances shall not be affected.
+(b) Household Severability.
+If a provision is held invalid as applied to a spouse, Dependent Child, Responsible Filer, or other Covered Household Person, the remainder of the Act shall remain in force for Covered Public Persons and all other valid applications.
+(c) Remedy Severability.
+If a filing fee, penalty, remedy, disclosure requirement, trust requirement, carrier assignment, judicial-review mechanism, maintenance mechanism, or chamber leadership consequence is held invalid, all remaining valid provisions and remedies shall remain in force to the greatest extent legally permissible.
+(d) Speech or Debate Savings Clause.
+If a court determines that a particular inquiry, evidentiary use, enforcement step, or remedy would violate the Speech or Debate Clause, that inquiry, use, step, or remedy shall be severed or narrowed, and the Act shall continue to apply to financial conduct proven without protected legislative-act evidence.
+(e) Qualifications Clause Savings Clause.
+If a court determines that a remedy would operate as an additional qualification for congressional office, ballot access, seating, or service, that remedy shall be severed or narrowed, and the Act shall continue to apply through valid financial restrictions, transition, disclosure, civil enforcement, and other lawful remedies.
+PART X — MAINTENANCE, REVIEW, AND ANTI-OBSOLESCENCE
+§ 17. Standing Law, Metrics, Periodic Review, and Change Control.
+(a) Standing Law; No Automatic Sunset.
+This Act remains in force until amended or repealed by Act of Congress. No review, metric, report, recommendation, or failure to complete a review automatically renews, suspends, terminates, expands, or narrows this Act.
+(b) Annual Operational Metrics.
+(1) Carrier Submission.
+Not later than 90 days after the end of each calendar year, each Applicable Congressional Ethics Office, OGE, the Clerk of the House of Representatives, the Secretary of the Senate, and the Attorney General shall provide GAO the standardized operational metrics within that entity’s function under this Act that are reasonably necessary to evaluate this Act.
+(2) Initial Partial Year.
+The first metric period begins on T0 and ends on December 31 of that year and shall be identified as an initial partial-year period if shorter than a full calendar year.
+(3) Automation.
+Metrics shall be generated from the structured systems established under section 8 where practicable. Narrative reporting shall be limited to matters not reasonably represented by structured data, material exceptions, ambiguity, and emerging risks.
+(c) Annual Public Operational Snapshot.
+Not later than 180 days after the end of each calendar year, GAO shall publish an aggregate public operational snapshot including, subject to lawful confidentiality—
+    (1) certification completion;
+    (2) active Compliance Lineage counts and trigger classes;
+    (3) cure rates and timing;
+    (4) extension and tolling use;
+    (5) public-posting and correction performance;
+    (6) final public V1, V2, V4, V5, and V7 outcomes and aggregate V3 filing-fee data where available;
+    (7) certificate-processing measures;
+    (8) privacy or protected-data incidents in aggregate;
+    (9) carrier-processing measures; and
+    (10) emerging ambiguity or evasion categories.
+The snapshot is descriptive and does not determine whether the Act continues in force.
+(d) Emerging Exposure, Evasion, and Ambiguity Appendix.
+Each annual snapshot shall include a non-case-specific appendix identifying material emerging pressure involving novel derivatives, digital assets, event contracts, private-fund structures, concentrated funds, portfolio synthesis, nominee or trust arrangements, exposure-state changes, and recurring classification ambiguity. The appendix creates no new prohibition.
+(e) First Comprehensive GAO Review.
+GAO shall publish a comprehensive implementation review not later than 3 years after T0.
+(f) Recurring Comprehensive GAO Review.
+After the first review due under subsection (e), GAO shall publish a comprehensive review every 6 years thereafter, measured from the statutory due date of the first review. A late or missed report does not change a later statutory due date.
+(g) Comprehensive Review Subjects.
+A comprehensive review shall evaluate, as evidence permits—
+    (1) whether the standing conflict addressed by this Act is being separated;
+    (2) certification and compliance;
+    (3) cure rates and cure times;
+    (4) extension and tolling frequency and duration;
+    (5) LIAA Transition Trust and Certificate of Divestiture operation;
+    (6) Member, staff, spouse, adult-dependent, and minor-dependent custodial burden by category without unnecessary disclosure of identity;
+    (7) preservation of ordinary diversified saving and retirement;
+    (8) V1, V2, V4, V5, V7, V3 filing-fee administration, PEV, and Statutory Net Gain administration;
+    (9) penalty proportionality, mitigation, collection, and deterrence;
+    (10) public-data timeliness, interoperability, accessibility, correction, and privacy;
+    (11) material divergence among House, Senate, and OGE administration after controlling for person category and comparable facts;
+    (12) underbreadth, evasion, and emerging financial products;
+    (13) overbreadth, reversal rates, classification errors, and unintended capture of broad diversified investment;
+    (14) administrative cost and implementation burden;
+    (15) later-enacted Federal law that duplicates, supersedes, conflicts with, or more cleanly carries a LIAA function; and
+    (16) any other material evidence relevant to whether the statute should continue without material change, receive technical repair, receive statutory repair, be narrowed, be consolidated, or be repealed.
+(h) Review Dispositions.
+GAO shall distinguish recommendations that fall into—
+    (1) continue without material statutory change;
+    (2) administrative or technical repair within existing authority;
+    (3) statutory repair requiring Congress; and
+    (4) repeal, material narrowing, consolidation, or removal of an unnecessary burden.
+A GAO recommendation has no self-executing legal effect.
+(i) Targeted Off-Cycle Review.
+Nothing in the scheduled review cadence limits GAO authority to conduct a targeted review between comprehensive cycles on its own lawful initiative or at congressional request concerning a material systemic issue, including privacy failure, recurring carrier divergence, novel evasion, PEV failure, certificate bottleneck, public-data failure, remedy mismatch, or later-law duplication. A targeted review does not reset a scheduled review date.
+(j) Material Maintenance Notice.
+An entity listed in subsection (b)(1) that identifies a recurring or systemic issue materially impairing administration, materially threatening protected information, materially exposing a statutory gap, or producing materially divergent administration shall transmit a Material Maintenance Notice to GAO and the relevant committees of jurisdiction.
+    (1) The notice shall identify the issue and state whether the carrier believes the issue is technical, interpretive, or statutory.
+    (2) The notice shall omit person-specific protected information unless lawfully necessary in a protected annex.
+    (3) The notice has no independent legal effect and creates no violation or safe harbor.
+(k) Carrier Response to GAO Technical Recommendations.
+If GAO recommends an administrative or technical repair within a carrier’s existing lawful authority, the carrier shall publish a response not later than 180 days after the recommendation stating—
+    (1) ACCEPT / IMPLEMENT;
+    (2) PARTIALLY ACCEPT;
+    (3) DECLINE; or
+    (4) REQUIRES STATUTORY AUTHORITY,
+with a brief explanation.
+(l) No Mandatory Congressional Reauthorization.
+Nothing in this section requires a congressional hearing, vote, reaffirmation, or reauthorization as a condition of the Act’s continued operation.
+(m) Change-Control Boundary.
+(1) Congress-Only Changes.
+Only an Act of Congress may alter—
+    (A) Covered Person categories;
+    (B) household attribution rules;
+    (C) the legal boundary of Covered Financial Exposure;
+    (D) violation elements;
+    (E) outer statutory transition periods;
+    (F) statutory filing-fee amounts and civil-penalty rates or caps;
+    (G) V7 liability elements;
+    (H) rights of judicial review;
+    (I) carrier jurisdiction established by statute;
+    (J) the legal public/protected information boundary;
+    (K) Federal tax eligibility; or
+    (L) repeal, suspension, or sunset.
+(2) Technical Maintenance.
+A lawful administrator may update within existing authority—
+    (A) data schemas;
+    (B) APIs;
+    (C) market identifiers;
+    (D) form layouts;
+    (E) accessibility implementation;
+    (F) transmission protocols;
+    (G) validation rules;
+    (H) technical PEV examples; and
+    (I) ministerial inflation calculations.
+(3) Interpretive Guidance.
+An administrator may publish FAQs, advisory interpretations, classification examples, or transition examples consistent with this Act. Guidance may explain but may not amend paragraph (1).
+(n) Review Non-Effect.
+Failure to collect, transmit, publish, complete, submit, consider, respond to, or act upon any metric, notice, review, report, recommendation, or response required under this section does not suspend, terminate, expand, narrow, renew, or otherwise alter a substantive duty, prohibition, right, remedy, defense, deadline, or liability under this Act. A missed review also does not reset any later statutory review date.
+(o) Guidance and Metric Memory.
+Material guidance, technical manuals, schemas, annual snapshots, and comprehensive review methodologies shall be dated, versioned, and archived as appropriate. A material change in a metric definition or review methodology shall disclose the prior and new definition and any material effect on comparability.
+(p) Public Confidence.
+Public-confidence or public-trust polling may be considered as contextual evidence but shall not be a core performance measure or a trigger for continuation, expiration, coverage, penalty, or reauthorization.
+PART XI — CONFORMING AMENDMENT FOR CERTIFICATES OF DIVESTITURE
+§ 18. Amendment to Section 1043 of the Internal Revenue Code of 1986.
+(a) Eligible Persons.
+Section 1043(b)(1) of the Internal Revenue Code of 1986 is amended—
+    (1) in subparagraph (A), by striking “and” at the end;
+    (2) in subparagraph (B), by striking the period at the end and inserting “;”;
+    (3) by adding at the end the following:
+        “(C) a Member of Congress or Senior Congressional Staff, as those terms are defined in section 5 of the Legislative Integrity and Accountability Act, who is required to divest specific property under that Act; and
+        “(D) a spouse or dependent child whose property is directly subject to a divestiture requirement under the Legislative Integrity and Accountability Act.”
+(b) Certificate of Divestiture.
+Section 1043(b)(2) of the Internal Revenue Code of 1986 is amended to read as follows:
+    “(2) Certificate of divestiture.—The term ‘certificate of divestiture’ means any written determination—
+        “(A) that states that divestiture of specific property is reasonably necessary—
+            “(i) to comply with any Federal conflict of interest statute, regulation, rule, judicial canon, or executive order, including section 208 of title 18, United States Code;
+            “(ii) because requested by a congressional committee as a condition of confirmation; or
+            “(iii) to comply with the Legislative Integrity and Accountability Act, provided that—
+                “(I) for a Member of Congress or Senior Congressional Staff, a written divestiture-necessity certification issued by the Applicable Congressional Ethics Office (as defined in section 5 of that Act), or a final judgment establishing that divestiture is required under that Act, is conclusive as to the necessity predicate under this subparagraph; and
+                “(II) for a spouse or dependent child directly subject to a divestiture requirement under that Act, the Office of Government Ethics shall determine the necessity predicate under that Act, subject to any final judgment establishing the requirement;
+        “(B) that has been issued—
+            “(i) by the President or the Director of the Office of Government Ethics, in the case of executive branch officers or employees;
+            “(ii) by the Judicial Conference of the United States or its designee, in the case of judicial officers; or
+            “(iii) by the Director of the Office of Government Ethics, in the case of an eligible person described in paragraph (1)(C) or (D); and
+        “(C) that identifies the specific property to be divested.”
+(c) Special Rule for Trusts.
+Section 1043(b)(5) of the Internal Revenue Code of 1986 is amended—
+    (1) in subparagraph (A), by striking “or” at the end;
+    (2) in subparagraph (B), by striking the period at the end and inserting “; or”; and
+    (3) by adding at the end the following:
+        “(C) a person described in paragraph (1)(C) or (D) has a beneficial interest in the principal or income of the trust and property held by the trust is required to be divested under the Legislative Integrity and Accountability Act.”
+(d) Permitted Property.
+Nothing in this Act expands the meaning of “permitted property” under section 1043(b)(3) of the Internal Revenue Code of 1986 except by a separate amendment to that section. LIAA compliance and section 1043 tax treatment are distinct: a financial interest may be permitted under LIAA without necessarily qualifying as replacement property under section 1043.
+(e) Pre-Sale Certificate.
+No person may claim section 1043 treatment for a LIAA Compliance Transaction unless the applicable certificate of divestiture was issued before the sale, except to the extent otherwise expressly permitted by Federal tax law.
+PART XII — EFFECTIVE DATE AND INITIAL IMPLEMENTATION
+§ 19. Effective Date and Initial Implementation.
+(a) Enactment and Immediate Preparation.
+Upon enactment, the Applicable Congressional Ethics Offices, OGE, Clerk of the House, Secretary of the Senate, GAO, Department of the Treasury, and other lawful implementing bodies may begin—
+    (1) guidance development;
+    (2) technical-system development;
+    (3) public-schema development;
+    (4) trustee and trust procedures;
+    (5) Certificate of Divestiture implementation;
+    (6) carrier coordination;
+    (7) training and public education; and
+    (8) other preparation necessary to make the principal compliance regime operational.
+(b) Principal Compliance Effective Date.
+The Principal Compliance Effective Date, T0, is the date that is 180 days after enactment.
+(c) Principal Duties Operative.
+On T0—
+    (1) the acquisition and increase prohibitions in section 6 become operative;
+    (2) the initial transition duty in section 7(a) begins;
+    (3) the certification and public-record duties in section 8 become operative; and
+    (4) the annual metric and review clocks under section 17 begin.
+(d) Existing Covered Persons.
+A person who is a Covered Person on T0 shall comply with the initial 180-day transition rule in section 7(a).
+(e) Persons Becoming Covered After T0.
+A person who becomes a Covered Person after T0 shall comply with the 90-day later-status transition rule in section 7(b).
+(f) Implementation Readiness.
+The implementing bodies shall use the 180-day preparation period to establish the lawful carriers, certificate process, public-record infrastructure, protected administrative process, and guidance necessary for performance of the duties beginning on T0. Administrative delay does not authorize an implementing body to postpone T0.
+(g) Accrued Rights and Existing Law.
+Nothing in this Act extinguishes a right, duty, reporting obligation, or liability arising under another law.
+
+
+AI-ASSISTANCE DISCLOSURE 
+During the preparation and revision of this model legislation, the author used generative AI tools to assist with drafting support, language refinement, structural editing, title development, technical organization, legal-research organization, and clarity. All substantive legal architecture, policy choices, constitutional framing, scope decisions, statutory design, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
